@@ -1,6 +1,5 @@
-<!-- 动态打字效果 -->
 
-</h1>
+<div align="center"> <img src="https://metrics.lecoq.io/Libaibubaie?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/Libaibubaie/photos/images/202108300019556.gif"/></div>
@@ -60,11 +59,7 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Libaibubaie/photos/images/202110311924844.png" /></div>
 
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Libaibubaie/Libaibubaie/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
 # 🚀 Actions
