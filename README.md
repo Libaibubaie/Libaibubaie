@@ -6,9 +6,6 @@
 <br>
 
 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Libaibubaie" alt="访客统计" /></div>
-
-
 
 
 💪 正在学习: 
@@ -72,9 +69,7 @@
 </div>
 <br>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Libaibubaie/Libaibubaie/base_metrics.svg" alt="base metrics"/></div>
-<br>
+
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
