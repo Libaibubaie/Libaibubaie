@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Libaibubaie" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Libaibubaie&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Libaibubaie" /> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
