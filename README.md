@@ -9,11 +9,6 @@
 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Libaibubaie" alt="访客统计" /></div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Libaibubaie/Libaibubaie/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-
-
 
 
 
